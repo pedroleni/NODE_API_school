@@ -1,0 +1,23 @@
+[
+{
+    "price": "5500€",
+    "duration": "Full_time",
+    "courses": ["62ea8f7b97c803e621e9d593", "62ea8f7b97c803e621e9d595"]
+},
+{
+    "price": "4000",
+    "duration": "Part-time",
+    "courses": ["62ea8f7b97c803e621e9d594"]
+},
+{
+    "price": "5000€",
+    "duration": "Part-time",
+    "courses": ["62ea8f7b97c803e621e9d594"]
+},
+{
+    "price": "4800€",
+    "duration": "Part-time",
+    "courses": ["62ea8f7b97c803e621e9d595"]
+}
+
+]

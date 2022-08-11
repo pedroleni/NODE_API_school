@@ -1,0 +1,28 @@
+[
+    {
+        "name": "MongoDB",
+        "duration": "15 días",
+        "courses": ["62ea8f7b97c803e621e9d593", "62ea8f7b97c803e621e9d594"]
+    },
+    {
+        "name": "CSS y HTML",
+        "duration": "15 días",
+        "courses": ["62ea8f7b97c803e621e9d593", "62ea8f7b97c803e621e9d594"]
+    },
+    {
+        "name": "UX",
+        "duration": "20 días",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    },
+    {
+        "name": "UI",
+        "duration": "10 días",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    },
+    {
+        "name": "Proyecto Final ",
+        "duration": "20 días",
+        "courses": ["62ea8f7b97c803e621e9d593" , "62ea8f7b97c803e621e9d594", "62ea8f7b97c803e621e9d595"]
+    }
+
+]

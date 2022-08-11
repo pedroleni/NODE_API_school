@@ -1,0 +1,20 @@
+[{
+    "name": "Full Stack Developer - Full Time",
+    "description": "Conviértete en el desarrollador web más completo. Podrás desarrollar el Front-end y el Back-end de una web o web app. Profundizaremos en las tecnologías y lenguajes de programación más demandados por las grandes y pequeñas empresas, llegando a dominar el stack MERN de JavaScript, el más demandado y popular entre el colectivo de desarrolladores según Stack Overflow. ",
+    "subjects": [""],
+    "students": [""]
+},
+{
+    "name": "Full Stack Developer - Part Time",
+    "description": "Conviértete en el desarrollador web más completo. Podrás desarrollar el Front-end y el Back-end de una web o web app. Profundizaremos en las tecnologías y lenguajes de programación más demandados por las grandes y pequeñas empresas, llegando a dominar el stack MERN de JavaScript, el más demandado y popular entre el colectivo de desarrolladores según Stack Overflow. ",
+    "subjects": [""],
+    "students": [""]
+},
+{
+    "name": "UI/UX user",
+    "description": "Conviértete en un auténtico Diseñador UX/UI con un programa intensivo 100% práctico y utiliza las metodologías y herramientas más usadas en el mercado.",
+    "subjects": [""],
+    "students": [""]
+}
+
+]

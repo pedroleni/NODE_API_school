@@ -1,0 +1,47 @@
+[
+
+    {
+        "name": "Raul Rodriguez",
+        "courses": ["62ea8f7b97c803e621e9d593"]
+    },
+    {
+        "name": "Luis Perez",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    },
+    {
+        "name": "Rodrigo Diaz",
+        "courses": ["62ea8f7b97c803e621e9d593"]
+    },
+    {
+        "name": "luisa Linares",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    },
+    {
+        "name": "Alfredo Lopez",
+        "courses": ["62ea8f7b97c803e621e9d594"]
+    },
+    {
+        "name": "Lucas Tremendo",
+        "courses": ["62ea8f7b97c803e621e9d593"]
+    },
+    {
+        "name": "Jesus Bajo",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    },
+    {
+        "name": "Antonio Ruiz",
+        "courses": ["62ea8f7b97c803e621e9d593"]
+    },
+    {
+        "name": "Dolores Venitez",
+        "courses": ["62ea8f7b97c803e621e9d594"]
+    },
+    {
+        "name": "Ruth Lorenzo",
+        "courses": ["62ea8f7b97c803e621e9d593"]
+    },
+    {
+        "name": "Ramon Benitez",
+        "courses": ["62ea8f7b97c803e621e9d595"]
+    }
+]
